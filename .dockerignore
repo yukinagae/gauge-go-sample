@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env*
+.gauge
+reports/
+logs/
+*.md
+!README.md 
+.env
